@@ -1,0 +1,11 @@
+<suite name="batch-suite">
+	<test name="thread1">
+		<classes>
+			<class name="types_of_execution.OrgTest"/>
+			<class name="types_of_execution.ContactTest"/>
+			<class name="types_of_execution.LeadsTest"/>
+		
+		
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,14 @@
+<suite name="suite">
+   <test name="test">
+   
+       <parameter name="bro" value="chrome"/>
+       <parameter name="url" value="http://localhost:8888/"/>
+       <parameter name="un"  value="admin"/>
+       <parameter name="pwd"  valu="manager"/>
+   
+       <classes>
+           <class name="Execution.OrgTest"/>
+   
+     </classes>
+   </test>
+</suite>
