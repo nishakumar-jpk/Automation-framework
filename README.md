@@ -1,4 +1,5 @@
 Selenium Automation Framework
+(selenium-framework.png)
  Project Overview:
 This project is a Selenium WebDriver automation framework developed using Java, TestNG, Maven, and Page Object Model (POM).
 The framework is designed to automate functional test cases for a CRM application and provides reusable utilities for browser handling, test data, reporting, and common Selenium operations.
@@ -71,6 +72,7 @@ Using Maven
 mvn clean test
 * Reporting
 Test execution results are generated using the configured reporting/listener implementation.
+
 👩‍💻 Author
 Nisha Bano
 GitHub: nishakumar-jpk
